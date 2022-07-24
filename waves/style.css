@@ -1,0 +1,19 @@
+h1 {
+  font-size: 60px;
+  color: #6c63ff;
+}
+
+img {
+  width: 30%;
+  position: absolute;
+  top: 130px;
+  right: 17%;
+}
+
+.text {
+  font-size: 21px;
+  position: absolute;
+  top: 250px;
+  left: 10%;
+  width: 400px;
+}
